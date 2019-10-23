@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mojopoly/monsters-rolodex-react/static/css/main.c998d50f.chunk.css",
+    "main.js": "/mojopoly/monsters-rolodex-react/static/js/main.053a7ad8.chunk.js",
+    "main.js.map": "/mojopoly/monsters-rolodex-react/static/js/main.053a7ad8.chunk.js.map",
+    "runtime-main.js": "/mojopoly/monsters-rolodex-react/static/js/runtime-main.5077cc3b.js",
+    "runtime-main.js.map": "/mojopoly/monsters-rolodex-react/static/js/runtime-main.5077cc3b.js.map",
+    "static/js/2.6d4998bf.chunk.js": "/mojopoly/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js",
+    "static/js/2.6d4998bf.chunk.js.map": "/mojopoly/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js.map",
+    "index.html": "/mojopoly/monsters-rolodex-react/index.html",
+    "precache-manifest.6af8355e7865e8bf4036dfbc5d1934ca.js": "/mojopoly/monsters-rolodex-react/precache-manifest.6af8355e7865e8bf4036dfbc5d1934ca.js",
+    "service-worker.js": "/mojopoly/monsters-rolodex-react/service-worker.js",
+    "static/css/main.c998d50f.chunk.css.map": "/mojopoly/monsters-rolodex-react/static/css/main.c998d50f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5077cc3b.js",
+    "static/js/2.6d4998bf.chunk.js",
+    "static/css/main.c998d50f.chunk.css",
+    "static/js/main.053a7ad8.chunk.js"
+  ]
+}
