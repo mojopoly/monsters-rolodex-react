@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mojopoly/monsters-rolodex-react/static/css/main.c998d50f.chunk.css",
-    "main.js": "/mojopoly/monsters-rolodex-react/static/js/main.053a7ad8.chunk.js",
-    "main.js.map": "/mojopoly/monsters-rolodex-react/static/js/main.053a7ad8.chunk.js.map",
-    "runtime-main.js": "/mojopoly/monsters-rolodex-react/static/js/runtime-main.5077cc3b.js",
-    "runtime-main.js.map": "/mojopoly/monsters-rolodex-react/static/js/runtime-main.5077cc3b.js.map",
-    "static/js/2.6d4998bf.chunk.js": "/mojopoly/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js",
-    "static/js/2.6d4998bf.chunk.js.map": "/mojopoly/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js.map",
-    "index.html": "/mojopoly/monsters-rolodex-react/index.html",
-    "precache-manifest.6af8355e7865e8bf4036dfbc5d1934ca.js": "/mojopoly/monsters-rolodex-react/precache-manifest.6af8355e7865e8bf4036dfbc5d1934ca.js",
-    "service-worker.js": "/mojopoly/monsters-rolodex-react/service-worker.js",
-    "static/css/main.c998d50f.chunk.css.map": "/mojopoly/monsters-rolodex-react/static/css/main.c998d50f.chunk.css.map"
+    "main.css": "/monsters-rolodex-react/static/css/main.c998d50f.chunk.css",
+    "main.js": "/monsters-rolodex-react/static/js/main.7d240c4b.chunk.js",
+    "main.js.map": "/monsters-rolodex-react/static/js/main.7d240c4b.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex-react/static/js/runtime-main.d5f9e462.js",
+    "runtime-main.js.map": "/monsters-rolodex-react/static/js/runtime-main.d5f9e462.js.map",
+    "static/js/2.6d4998bf.chunk.js": "/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js",
+    "static/js/2.6d4998bf.chunk.js.map": "/monsters-rolodex-react/static/js/2.6d4998bf.chunk.js.map",
+    "index.html": "/monsters-rolodex-react/index.html",
+    "precache-manifest.388a067fdfc3916bc5ef2cf22730b1fa.js": "/monsters-rolodex-react/precache-manifest.388a067fdfc3916bc5ef2cf22730b1fa.js",
+    "service-worker.js": "/monsters-rolodex-react/service-worker.js",
+    "static/css/main.c998d50f.chunk.css.map": "/monsters-rolodex-react/static/css/main.c998d50f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5077cc3b.js",
+    "static/js/runtime-main.d5f9e462.js",
     "static/js/2.6d4998bf.chunk.js",
     "static/css/main.c998d50f.chunk.css",
-    "static/js/main.053a7ad8.chunk.js"
+    "static/js/main.7d240c4b.chunk.js"
   ]
 }
