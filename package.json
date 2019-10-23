@@ -2,7 +2,7 @@
   "name": "monsters-rolodex-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mojopoly/monsters-rolodex-react",
+  "homepage": "https://mojopoly.github.io/monsters-rolodex-react/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
